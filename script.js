@@ -1,9 +1,9 @@
 jQuery(document).ready(function() {
 	var QRBox	=	$('#QRBox');
 	var MainBox	=	$('#MainBox');
-	var BTCQR	=	'https://chihui.github.io/Playing-reward/images/S61202-203604(1).jpg';	// 二维码路径
-	var AliPayQR	=	'https://chihui.github.io/Playing-reward/images/1480682000517(1).jpg';
-	var WeChanQR	=	'https://chihui.github.io/Playing-reward/images/WeChanQR.png';
+	var BTCQR	=	'http://www.ninachi.xyz/images/qicq.jpg';	// 二维码路径
+	var AliPayQR	=	'http://www.ninachi.xyz/images/alipay.jpg';
+	var WeChanQR	=	'http://www.ninachi.xyz/images/wechat.png';
 
 	
 
